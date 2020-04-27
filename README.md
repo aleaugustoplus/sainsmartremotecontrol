@@ -7,7 +7,7 @@ Used along with [remote_lvc](https://github.com/aleaugustoplus/remote_lvc) sofwa
 
 Download the firmware in the robot using arduino software platform
 
-## Screenshots
+## Robot Image
 
 ![screen image](images/robot.jpg)
 
