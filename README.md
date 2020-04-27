@@ -9,7 +9,7 @@ Download the firmware in the robot using arduino software platform
 
 ## Screenshots
 
-![screen image](images/hercules.jpg)
+![screen image](images/robot.jpg)
 
 ## Running the tests
 
