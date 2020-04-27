@@ -1,7 +1,6 @@
 # sainsmartremotecontrol
 
-This is firmware used in the robot so called "Hercules" in order to allow remote controlling available at: [seeed studio](https://www.seeedstudio.com/Skeleton-Bot-4WD-Hercules-Mobile-Robotic-Platform-p-1504.html)
-Used along with [remote_lvc](https://github.com/aleaugustoplus/remote_lvc) sofware that is used in the remote controlling interface
+This is firmware used in the robot in order to allow remote controlling available at: [sainsmart](https://www.sainsmart.com/products/4wd-robot-car-kit-with-mega2560)
 
 ## Getting Started
 
@@ -33,7 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://en.wi
 
 ## Acknowledgments
 
-* Some third party open source libraries have been used thank you for that thanks seeedstudio.com
+* Some third party open source libraries have been used thank you for that thanks https://www.sainsmart.com
 
 
 https://aprendizadodemaquina.com
