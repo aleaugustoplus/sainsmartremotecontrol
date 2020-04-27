@@ -9,7 +9,7 @@ Download the firmware in the robot using arduino software platform
 
 ## Robot Image
 
-![screen image](images/robot.jpg)
+![screen image](image/robot.jpg)
 
 ## Running the tests
 
