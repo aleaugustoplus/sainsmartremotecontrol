@@ -1,6 +1,6 @@
 # sainsmartremotecontrol
 
-This is firmware used in the robot in order to allow remote controlling available at: [sainsmart](https://www.sainsmart.com/products/4wd-robot-car-kit-with-mega2560)
+This software is used in the robot in order to allow remote controlling available at: [sainsmart](https://www.sainsmart.com/products/4wd-robot-car-kit-with-mega2560)
 
 ## Getting Started
 
